@@ -11,3 +11,4 @@
   "plugins": ["@typescript-eslint"],
 "extends": [
     "eslint:all",
+    "plugin:@typescript-eslint/stylistic-type-checked",
