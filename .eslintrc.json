@@ -9,3 +9,5 @@
     "browser": true
 },
   "plugins": ["@typescript-eslint"],
+"extends": [
+    "eslint:all",
