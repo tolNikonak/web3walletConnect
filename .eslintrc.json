@@ -12,3 +12,4 @@
 "extends": [
     "eslint:all",
     "plugin:@typescript-eslint/stylistic-type-checked",
+    "plugin:@typescript-eslint/strict-type-checked",
