@@ -18,3 +18,4 @@
   "rules": {
     "sort-imports": "off",
     "one-var": "off",
+    "sort-keys": "off",
