@@ -15,3 +15,4 @@
     "plugin:@typescript-eslint/strict-type-checked",
     "prettier"
   ],
+  "rules": {
