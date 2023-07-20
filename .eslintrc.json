@@ -19,3 +19,5 @@
     "sort-imports": "off",
     "one-var": "off",
     "sort-keys": "off",
+    "id-length": "off",
+    "no-ternary": "off",
