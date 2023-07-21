@@ -21,3 +21,4 @@
     "sort-keys": "off",
     "id-length": "off",
     "no-ternary": "off",
+    "max-lines-per-function": "off",
