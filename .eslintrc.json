@@ -24,3 +24,4 @@
     "max-lines-per-function": "off",
     "max-statements": "off",
     "no-undefined": "off",
+   "new-cap": "off",
