@@ -25,3 +25,5 @@
     "max-statements": "off",
     "no-undefined": "off",
    "new-cap": "off",
+    "max-params": "off",
+    "complexity": "off",
