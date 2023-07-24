@@ -27,3 +27,4 @@
    "new-cap": "off",
     "max-params": "off",
     "complexity": "off",
+    "max-depth": "off",
