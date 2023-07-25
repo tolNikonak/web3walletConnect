@@ -31,3 +31,4 @@
     "no-undef-init": "off",
     "curly": "error",
     "max-lines": "off",
+    "require-atomic-updates": "off",
