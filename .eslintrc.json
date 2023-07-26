@@ -32,3 +32,4 @@
     "curly": "error",
     "max-lines": "off",
     "require-atomic-updates": "off",
+    "arrow-body-style": "off",
