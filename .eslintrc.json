@@ -35,3 +35,5 @@
     "arrow-body-style": "off",
     "func-style": ["error", "declaration"],
     "newline-before-return": "error",
+    "camelcase": "off",
+    "class-methods-use-this": "off",
