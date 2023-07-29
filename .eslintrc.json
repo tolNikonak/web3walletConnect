@@ -39,3 +39,5 @@
     "class-methods-use-this": "off",
     "no-console": ["error", { "allow": ["error", "info"] }],
     "no-duplicate-imports": "off",
+    "no-async-promise-executor": "off",
+    "no-magic-numbers": "off",
