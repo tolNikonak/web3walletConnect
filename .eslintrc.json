@@ -41,3 +41,6 @@
     "no-duplicate-imports": "off",
     "no-async-promise-executor": "off",
     "no-magic-numbers": "off",
+    "no-use-before-define": "off",
+
+    "@typescript-eslint/no-unsafe-call": "off",
