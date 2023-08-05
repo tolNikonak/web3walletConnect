@@ -56,3 +56,5 @@
     "@typescript-eslint/lines-between-class-members": "off",
     "@typescript-eslint/no-type-alias": "off",
     "@typescript-eslint/strict-boolean-expressions": "off",
+   "@typescript-eslint/unbound-method": "off",
+    "@typescript-eslint/no-floating-promises": "off",
