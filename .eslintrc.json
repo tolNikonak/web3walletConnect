@@ -62,3 +62,4 @@
     "@typescript-eslint/no-unsafe-member-access": "off",
     "@typescript-eslint/no-misused-promises": "off",
     "@typescript-eslint/no-unsafe-argument": "off",
+    "@typescript-eslint/prefer-regexp-exec": "off",
