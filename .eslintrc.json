@@ -68,3 +68,6 @@
     "@typescript-eslint/non-nullable-type-assertion-style": "off",
 "@typescript-eslint/no-unnecessary-condition": "off",
     "@typescript-eslint/no-unused-vars": [
+      "error",
+      { "argsIgnorePattern": "^_", "varsIgnorePattern": "h" }
+    ],
