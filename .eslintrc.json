@@ -71,3 +71,5 @@
       "error",
       { "argsIgnorePattern": "^_", "varsIgnorePattern": "h" }
     ],
+    "@typescript-eslint/no-confusing-void-expression": ["error", { "ignoreArrowShorthand": true }],
+    "@typescript-eslint/member-ordering": "off",
