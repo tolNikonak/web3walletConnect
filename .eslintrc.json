@@ -74,3 +74,4 @@
     "@typescript-eslint/no-confusing-void-expression": ["error", { "ignoreArrowShorthand": true }],
     "@typescript-eslint/member-ordering": "off",
     "@typescript-eslint/key-spacing": "off",
+    "@typescript-eslint/no-import-type-side-effects": "off",
