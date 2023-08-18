@@ -75,3 +75,4 @@
     "@typescript-eslint/member-ordering": "off",
     "@typescript-eslint/key-spacing": "off",
     "@typescript-eslint/no-import-type-side-effects": "off",
+    "@typescript-eslint/prefer-nullish-coalescing": "off"
